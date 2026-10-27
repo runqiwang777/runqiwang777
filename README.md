@@ -11,3 +11,5 @@
 ### 👋 Profile
 
 My name is **Runqi (Allen) Wang**. I am an undergraduate student at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
+
+Click [here](https://runqiwang777.github.io/) to my homepage.
