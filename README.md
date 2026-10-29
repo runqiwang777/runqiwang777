@@ -13,3 +13,18 @@
 My name is **Runqi (Allen) Wang**. I am an undergraduate student at SJTU pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
 
 Click [here](https://runqiwang777.github.io/) to my homepage.
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=runqiwang777&amp;show_icons=true&amp;theme=dark_github">
+    <img alt="Runqi's GitHub activity statistics" src="https://github-stats-extended.vercel.app/api?username=runqiwang777&amp;show_icons=true&amp;theme=light_github">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=runqiwang777&amp;layout=compact&amp;langs_count=5&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=dark_github">
+    <img alt="Languages used in Runqi's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=runqiwang777&amp;layout=compact&amp;langs_count=5&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=light_github">
+  </picture>
+</p>
+
+<sub>Stats powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
