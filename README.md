@@ -1,5 +1,5 @@
 <p>
-  <a href="https://scholar.google.com/citations?user=yVI9KikAAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=yVI9KikAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"></a>
   <a href="https://orcid.org/0009-0009-0029-4575"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white"></a>
   <a href="https://openreview.net/profile?id=~Runqi_Wang5"><img alt="OpenReview" src="https://img.shields.io/badge/OpenReview-6B7280?style=flat-square"></a>
   <a href="https://github.com/runqiwang777"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
