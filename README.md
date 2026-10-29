@@ -10,7 +10,7 @@
 
 ### 👋 Profile
 
-My name is **Runqi (Allen) Wang**. I am an undergraduate student at SJTU pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
+My name is **Runqi (Allen) Wang**. I am an undergraduate student at SJTU pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**. I am mainly focusing on ML & Agent & Quant. Welcome to connect!
 
 Click [here](https://runqiwang777.github.io/) to my homepage.
 
