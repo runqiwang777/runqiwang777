@@ -14,8 +14,6 @@
 
 Hi, I’m Runqi Wang (Allen) 王润祺, an undergraduate at Shanghai Jiao Tong University double-majoring in Mathematics & Applied Mathematics and in Artificial Intelligence. My main interests are ML, AI agents, and quantitative finance. Feel free to connect!
 
-Click [here](https://runqiwang777.github.io/) to my homepage.
-
 ### 📊 GitHub Activity
 
 <p align="center">
