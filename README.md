@@ -20,4 +20,4 @@ Hi, I’m Runqi Wang (Allen) 王润祺, an undergraduate at Shanghai Jiao Tong U
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runqiwang777&theme=github_dark&animation=draw)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runqiwang777&theme=github_dark&animation=draw)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runqiwang777&theme=github_dark&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqiwang777&theme=github_dark&animation=draw&timeZone=Asia%2FShanghai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqiwang777&theme=github_dark&animation=draw&utcOffset=8)
