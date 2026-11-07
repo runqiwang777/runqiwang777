@@ -16,15 +16,8 @@ Hi, I’m Runqi Wang (Allen) 王润祺, an undergraduate at Shanghai Jiao Tong U
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=runqiwang777&amp;show_icons=true&amp;theme=dark_github">
-    <img alt="Runqi's GitHub activity statistics" src="https://github-stats-extended.vercel.app/api?username=runqiwang777&amp;show_icons=true&amp;theme=light_github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=runqiwang777&amp;layout=compact&amp;langs_count=5&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=dark_github">
-    <img alt="Languages used in Runqi's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=runqiwang777&amp;layout=compact&amp;langs_count=5&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=light_github">
-  </picture>
-</p>
-
-<sub>Stats powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqiwang777&theme=github_dark&animation=draw&name=Runqi+Wang+%28Allen%29)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runqiwang777&theme=github_dark&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runqiwang777&theme=github_dark&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runqiwang777&theme=github_dark&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqiwang777&theme=github_dark&animation=draw&timeZone=Asia%2FShanghai)
